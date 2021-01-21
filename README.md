@@ -1,2 +1,2 @@
-# Java--Course---3
+# Java-Course-3
 Robot Olympics using association 
